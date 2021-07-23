@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Luckey</title>
+  <title>thetimi</title>
   
   <subtitle>schultz tedの博客</subtitle>
   <link href="http://www.turingstyle.top/atom.xml" rel="self"/>
@@ -10,7 +10,7 @@
   <id>http://www.turingstyle.top/</id>
   
   <author>
-    <name>schultz ted</name>
+    <name>thetimi</name>
     
   </author>
   
